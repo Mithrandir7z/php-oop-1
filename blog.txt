@@ -1,0 +1,6 @@
+Blog
+
+nome
+cognome
+email
+età
